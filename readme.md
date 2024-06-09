@@ -19,8 +19,9 @@ python3 --version
 
 path to the python interpreter:
 ```bash
-which python3
-``` 
+where python
+```
+
 
 ## Commands for Windows using Chocolatey:
 ```bash
@@ -30,16 +31,6 @@ choco install pycharm-community
 command to install python
 ```bash
 choco install python
-```
-
-command to verify the version of python installed:
-```bash
-python --version
-```
-
-path to the python interpreter:
-```bash
-where python
 ```
 
 ## Install on Mac using Homebrew:
